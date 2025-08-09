@@ -1,0 +1,14 @@
+.itens{
+    margin: 24px 0;
+}
+.itens strong{
+    color: #539BF5;
+    margin: 24px 0;
+    font-size: 24px;
+}
+
+.itens p{
+    color: #999;
+    font-size: 16px;
+    margin-top: 24px 0;
+}
