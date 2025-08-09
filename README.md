@@ -1,4 +1,5 @@
 📌 GitHub Profile Finder
+
 É um projeto desenvolvido em React que consome a API pública do GitHub para buscar informações de usuários e seus repositórios.
 O objetivo é treinar o uso de hooks, consumo de API e manipulação de estado no React.
 
